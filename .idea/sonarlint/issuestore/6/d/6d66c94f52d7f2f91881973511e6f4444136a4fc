@@ -1,0 +1,17 @@
+
+n
+java:S1450%"XRemove the "presenter" field and declare it as a local variable in the relevant methods.(çŠÎ´
+Q	java:S1254"<This block of commented-out lines of code should be removed.(ù­Ú
+Z
+java:S1128"8Remove this unused import 'javafx.application.Platform'.(§“óùÿÿÿÿ8½åÛ×ú1
+H
+java:S1128
+"+Remove this unused import 'model.Language'.(„¶š8½åÛ×ú1
+]
+java:S1128"@Remove this unused import 'model.exception.RepositoryException'.(ŒðÈ¹8½åÛ×ú1
+c
+java:S1128"FRemove this unused import 'org.controlsfx.control.SearchableComboBox'.(ÞÓþï8½åÛ×ú1
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8¾åÛ×ú1
+J
+java:S1068%"-Remove this unused "presenter" private field.(çŠÎ´8¾åÛ×ú1

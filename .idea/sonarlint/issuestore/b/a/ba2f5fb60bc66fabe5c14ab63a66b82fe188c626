@@ -1,0 +1,16 @@
+
+I
+java:S1602)",Remove useless curly braces around statement(ÃÉş©8Á²…Øú1
+I
+java:S16021",Remove useless curly braces around statement(ÃÉş©8ê®†Øú1
+\
+java:S16121"?Replace this lambda with method reference 'e::printStackTrace'.(ÃÉş©8Ä²…Øú1
+]	java:S1253"<This block of commented-out lines of code should be removed.(Û¶ÅÖıÿÿÿÿ8È²…Øú1
+W	java:S125F"<This block of commented-out lines of code should be removed.(âÉë}8Ï²…Øú1
+]	java:S125I"<This block of commented-out lines of code should be removed.(ñ’÷Úüÿÿÿÿ8Ğ²…Øú1
+X	java:S125T"<This block of commented-out lines of code should be removed.(€¾‹Û8Õ²…Øú1
+M
+java:S1172a"+Remove this unused method parameter "lang".(†´ÌŞûÿÿÿÿ8Û²…Øú1
+V	java:S125n"<This block of commented-out lines of code should be removed.(“­Úêúÿÿÿÿ
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8ƒè…Øú1

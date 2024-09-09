@@ -1,0 +1,10 @@
+
+_
+java:S2259"IA "NullPointerException" could be thrown; "currentNode" is nullable here.(Ðª¦•
+œ
+java:S1186?"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(žÀÝñûÿÿÿÿ
+P
+java:S1118":Add a private constructor to hide the implicit public one.(Ó½ùŠ
+T
+java:S1155">Use isEmpty() to check whether the collection is empty or not.(Û‘ž‘
+Q	java:S125D"<This block of commented-out lines of code should be removed.(Çµí‘
