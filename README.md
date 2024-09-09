@@ -34,11 +34,10 @@ To build the project:
 
 ## Development Details
 
-- **Design Patterns:** MVC, Facade, Observable-Observer.
+- **Design Patterns:** MVC, MVP, Facade, Observable-Observer.
 - **Concurrency:** Uses multithreading.
 - **Database Handling:** Utilizes DAO, DTO, and repositories.
 - **JavaFX:** Views are implemented with FXML.
-- **Testing:** Includes unit tests with JUnit5 and Mockito.
 - **Project Management:** Maven-based.
 
 ## Author
